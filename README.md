@@ -10,4 +10,6 @@
  #3 react =(npm install react)
  #4 redux =(npm install redux)
 
+ la documentacion del npm puede verla en este URL:https://www.npmjs.com/package/npm
+
 
