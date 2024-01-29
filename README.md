@@ -12,12 +12,11 @@ los programma que utilizaremos van a ser los siguientes
 
 ### 1 visual estudio 
 
-vamos al siguiente link para descargarlo y seguimos los pasos : https://code.visualstudio.com/download 
+vamos al siguiente link para descargarlo y seguimos los pasos : [aquí]((https://code.visualstudio.com/download)) 
           
--2 git 
+### 2 git 
 
-vamos al siguiente link para descargarlo y seguimos los pasos : https://code.visualstudio.com/download 
-
+vamos al siguiente link para descargarlo y seguimos los pasos : [aquí](https://git-scm.com/downloads)
 
 
 ##clonacion del repositorio en el visual estudio
@@ -30,7 +29,7 @@ Para obtener una copia de este proyecto en tu máquina local, sigue estos pasos:
 
 ### Requisitos Previos
 
-- Asegúrate de tener Git instalado en tu máquina. Si no lo tienes, puedes descargarlo [aquí](https://git-scm.com/).
+- Asegúrate de tener Git instalado en tu máquina. Si no lo tienes, puedes descargarlo [aquí](https://git-scm.com/downloads)
 
 ### Clonar el Repositorio
 
