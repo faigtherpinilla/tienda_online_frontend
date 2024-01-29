@@ -33,12 +33,26 @@ Para obtener una copia de este proyecto en tu máquina local, sigue estos pasos:
 
 ### Clonar el Repositorio
 
-1. Abre tu terminal o línea de comandos.
+1. Abre tu terminal o línea de comandos, sigiendo estos pasos
 
-2. Utiliza el siguiente comando para clonar el repositorio:
+   * da click derecho y busca el icono de git bash
+   * una vez abierta la terminal asegurate de estar en la ruta, carpeta o lugar donde desea guardar tu repositorio con el comando (cd) y el nombre del espacio donde lo desea guardar 
+
+3. Utiliza el siguiente comando para clonar el repositorio:
 
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
+
+asegurate de seguir los pasos de la documentacion oficial de git, podras verlo [aquí](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) 
+
+## visualizar el repositorio en visaul estudio 
+
+entre al viasual estudio y dele click open file y abre la carpeta donde tiene el repositorio 
+
+
+## 
+
+
 
 
 
