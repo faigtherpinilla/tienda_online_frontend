@@ -10,11 +10,11 @@
 los programma que utilizaremos van a ser los siguientes 
 
 
-### 1 visual estudio 
+* 1 visual estudio 
 
 vamos al siguiente link para descargarlo y seguimos los pasos : [aquí](https://code.visualstudio.com/download) 
           
-### 2 git 
+* 2 git 
 
 vamos al siguiente link para descargarlo y seguimos los pasos : [aquí](https://git-scm.com/downloads)
 
