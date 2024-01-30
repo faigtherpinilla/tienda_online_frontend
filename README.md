@@ -48,3 +48,18 @@ asegurate de seguir los pasos de la documentacion oficial de git, podras verlo [
 ## visualizar el repositorio en visual estudio 
 
 entre al visual estudio y dele click open folder y abre la carpeta donde tiene el repositorio 
+Ya tenemos una copia de nuestro proyecto en nuestro propio computador, ahora vamos a visualizar nuestro proyecto.
+
+1. Abre VS Code
+2. En la parte superior izquierda, da  click en "File" o "Archivo"
+3. Click en "Open folder" o "Abrir carpeta"
+4. Vas a navegar hasta la carpeta donde quedó clonado el proyecto, y la vas a abrir.
+5. Wualá! Ya tienes nuestro proyecto abierto en VS Code
+
+## instalacion de los framework
+
+
+
+
+
+
